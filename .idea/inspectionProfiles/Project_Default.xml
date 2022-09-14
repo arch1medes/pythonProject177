@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="json.*" />
+          <option value="pythonProject.bp_api.views.*" />
+          <option value="bp_api.test.tests.main" />
+          <option value="bp_api.test.tests.os" />
+          <option value="bp_api.test.tests.resutl" />
+          <option value="bp_api.test.tests.pk" />
+          <option value="venv.config" />
+          <option value="posts.test.view.flask" />
+          <option value="posts.dao.post.dao" />
+          <option value="posts.test.view.user_name" />
+          <option value="posts.test.view.post" />
+          <option value="posts.test.view.request" />
+          <option value="exceptions.data_exceptions" />
+          <option value="app.flask" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
